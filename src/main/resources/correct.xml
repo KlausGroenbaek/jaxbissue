@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aNamespace:aroot
+        xmlns:aNamespace="http://localhost:8080/myNamespace.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://localhost:8080/myNamespace.xsd myNamespace.xsd ">
+    <aNamespace:id>This is the ID</aNamespace:id>
+</aNamespace:aroot>
+
